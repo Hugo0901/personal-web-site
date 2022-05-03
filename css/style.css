@@ -1,0 +1,73 @@
+/**************************TAG SELECTION*************************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-style: oblique;
+  font-size: 5.625rem;
+  font-family: Sacramento, serif;
+}
+
+h2 {
+  font-family: times;
+}
+
+h3 {
+  font-family: times;
+}
+
+div {
+  background-color: #FD5D5D;
+  padding: 25px;
+}
+
+img {
+  height: 100px;
+}
+
+/**************************CLASS SELECTION***********************************/
+
+.contact-me {
+  width: 50%;
+  margin: 100px auto 100px auto
+}
+.estrella-amarilla {
+  position: relative;
+  top: 40PX
+}
+
+.estrella-gris {
+  position: relative;
+  bottom: 56px;
+}
+
+.pro {
+text-decoration: underline;
+  font-family: Montserrat;
+  font-style: oblique;
+  font-size: 2.5rem
+}
+
+.skill-row {
+  line-height: 2;
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto
+}
+.subtitle {
+  font-size: 2.5rem;
+  margin-top: 0.9375rem;
+}
+.desarrollo-img {
+
+}
+.pc-img {
+
+}
+.web-img {
+
+}
